@@ -1,10 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=219ebc&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=header"/>
 
 <h1>💫 About Me</h1>
 
 <h3>
-- 🔭 Full-stack developer<br/>
-- 📕Learning Cyber Security<br/>
+- 🔭 Software Developer in training<br/>
 -  21 Years Old<br/>
 - ❤️ Passionate about technology<br/>
 </h3>
@@ -12,17 +11,32 @@
 <br/><br/>
 
 
-<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
+<h1> My Skill Sets </h1>
 
 ---
 
-<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
-<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JavaScript" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
-<a href="https://react.dev/" target="_blank"><img align="left" alt="React" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
-<img src="https://skillicons.dev/icons?i=html,css" height="50" >
-<a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
+<a href="https://www.python.org/" target="_blank">
+<img align="left" alt="Python" width="50px" style="padding:10px;" 
+src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" />
+</a>
 
+<a href="https://www.mysql.com/" target="_blank">
+<img align="left" alt="SQL" width="50px" style="padding:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=219ebc&height=100&section=footer"/>
+<a href="https://www.w3schools.com/js/" target="_blank">
+<img align="left" alt="JavaScript" width="50px" style="padding:10px;" 
+src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" />
+</a>
+
+<a href="https://react.dev/" target="_blank">
+<img align="left" alt="React" width="50px" style="padding:10px;" 
+src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" />
+</a>
+
+<br/><br/><br/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
+
 

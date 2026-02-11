@@ -1,8 +1,28 @@
-## 💻 My Skill Sets
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=219ebc&height=100&section=header"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,ts" />
+<h1>💫 About Me</h1>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=indexbiel&show_icons=true&theme=tokyonight)
+<h3>
+- 🔭 Full-stack developer<br/>
+- 📕Learning Cyber Security<br/>
+-  21 Years Old<br/>
+- ❤️ Passionate about technology<br/>
+</h3>
+<a href="#--about-me--"><img src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/others/colorful_line.gif"></a>
+<br/><br/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0a192f&height=120&section=header"/>
+
+<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
+
+---
+
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
+<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JavaScript" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
+<a href="https://react.dev/" target="_blank"><img align="left" alt="React" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
+<img src="https://skillicons.dev/icons?i=html,css" height="50" >
+<a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=219ebc&height=100&section=footer"/>
 

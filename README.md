@@ -13,26 +13,21 @@
 ## 🧠 Tech Stack
 
 <div align="center">
-
 <a href="https://www.python.org/" target="_blank">
 <img align="left" alt="Python" width="50px" style="padding:10px;" 
 src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" />
 </a>
-
 <a href="https://www.mysql.com/" target="_blank">
 <img align="left" alt="SQL" width="50px" style="padding:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </a>
-
 <a href="https://www.w3schools.com/js/" target="_blank">
 <img align="left" alt="JavaScript" width="50px" style="padding:10px;" 
 src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" />
 </a>
-
 <a href="https://react.dev/" target="_blank">
 <img align="left" alt="React" width="50px" style="padding:10px;" 
 src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" />
-
 </div>
 
 ---

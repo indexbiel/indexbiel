@@ -1,59 +1,43 @@
-<!-- HEADER HACKER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Gabriel%20Henrique&fontColor=00ff00&fontSize=45&color=0:000000,100:001a00&animation=twinkling"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=header"/>
 
-<h1 align="center">👾 Hacker Mode: ON</h1>
+<h1>💫 About Me</h1>
 
-<p align="center">
-🧠 Python • SQL • JavaScript • React <br>
-💀 Building. Breaking. Learning.
-</p>
+<h3>
+- 🔭 Software Developer in training<br/>
+-  21 Years Old<br/>
+- ❤️ Passionate about technology<br/>
+</h3>
+<a href="#--about-me--"><img src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/others/colorful_line.gif"></a>
+<br/><br/>
 
----
 
-## 🧬 Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="65"/>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="65"/>
-<img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="65"/>
-<img src="https://skillicons.dev/icons?i=react&theme=dark" height="65"/>
-
-</div>
+<h1> My Skill Sets </h1>
 
 ---
 
-## 📊 System Stats
+<a href="https://www.python.org/" target="_blank">
+<img align="left" alt="Python" width="50px" style="padding:10px;" 
+src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" />
+</a>
 
-<div align="center">
+<a href="https://www.mysql.com/" target="_blank">
+<img align="left" alt="SQL" width="50px" style="padding:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</a>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=indexbiel&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+<a href="https://www.w3schools.com/js/" target="_blank">
+<img align="left" alt="JavaScript" width="50px" style="padding:10px;" 
+src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" />
+</a>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indexbiel&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+<a href="https://react.dev/" target="_blank">
+<img align="left" alt="React" width="50px" style="padding:10px;" 
+src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" />
+</a>
 
-</div>
+<br/><br/><br/>
 
----
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
 
-## ⚡ Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=indexbiel&theme=react-dark&bg_color=000000&hide_border=true&color=00ff00&line=00ff00&point=ffffff"/>
-
----
-
-## 🖥️ Terminal Mode
-
-```bash
-> whoami
-Gabriel Henrique
-
-> skills --load
-Python ✔
-SQL ✔
-JavaScript ✔
-React ✔
-
-> status
-Learning. Improving. Evolving.
 
 

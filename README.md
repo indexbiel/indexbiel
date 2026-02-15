@@ -35,6 +35,12 @@ src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary
 src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" />
 </a>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaike-sousa/kaike-sousa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaike-sousa/kaike-sousa/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+
 <br/><br/><br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
